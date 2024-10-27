@@ -44,6 +44,27 @@ header {
 /* header style end */
 
 /* nav style start  */
+/* Logo styling */
+.logo {
+  display: flex;
+  align-items: center;
+  padding-right: 60px;
+}
+
+.logo a {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: #333; /* Change as needed */
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+.logo-img {
+  width: 50px; /* Size adjustments may be needed */
+  height: auto;
+  margin-right: 10px; /* Spacing between image and text */
+}
 nav {
   padding-left: 5px;
   width: 100em;
