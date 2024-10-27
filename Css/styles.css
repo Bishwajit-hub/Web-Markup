@@ -527,7 +527,7 @@ button:hover{
 /* contact style end */
 
 
-/* Responsive Layout Adjustments */
+/* Responsive Layout  */
 @media screen and (max-width: 768px) {
   /* Adjust the navigation menu for mobile devices */
   nav {
@@ -556,7 +556,7 @@ button:hover{
   }
 }
 
-/* Larger screen layout pc*/
+/* screen layout */
 @media screen and (min-width: 769px) {
   nav {
     display: flex;
